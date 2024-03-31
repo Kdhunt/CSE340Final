@@ -1,12 +1,10 @@
-const baseURL = import.meta.env.API_BASE_URL;
-const apiKey = import.meta.env.API_KEY;
-const apiHost = import.meta.env.API_HOST;
+const baseURL = import.meta.env.VITE_API_BASE_URL;
+const apiKey = import.meta.env.VITE_API_KEY;
+const apiHost = import.meta.env.VITE_API_HOST;
 
+export default class WordOps {
 
-
-/// MAKING THE API CALL
-export default class Word {
-
+    /// MAKING THE API CALLS 
     async fetchWordData(url) {
         const options = {
             method: 'GET',
@@ -19,14 +17,15 @@ export default class Word {
             const response = await fetch(url, options);
             const result = await response.text();
             console.log(result);
+            return result;
         } catch (error) {
             console.error(error);
         }
     }
     // SYNONYMS
     async fetchSynonyms() {
-        const url = `${baseURL}/words/${this.word}/synonyms`;
-        await this.fetchWordData(url);
+        const url = `${baseURL}${this.word}/synonyms`;
+        let result = await this.fetchWordData(url);
         this.synonyms = JSON.parse(result);
     }
     async hasSynonym(){
@@ -45,8 +44,8 @@ export default class Word {
 
     // ANTONYMS
     async fetchAntonyms() {
-        const url = `${baseURL}/words/${this.word}/antonyms`;
-        await this.fetchWordData(url);
+        const url = `${baseURL}${this.word}/antonyms`;
+        let result = await this.fetchWordData(url);
         this.synonyms = JSON.parse(result);
     }
     async hasAntonyms(){
@@ -64,8 +63,8 @@ export default class Word {
     }
     // Rhymes
     async fetchRhymes() {
-        const url = `${baseURL}/words/${this.word}/rhymes`;
-        await this.fetchWordData(url);
+        const url = `${baseURL}${this.word}/rhymes`;
+        let result = await this.fetchWordData(url);
         this.rhymes = JSON.parse(result);
     }
     async hasRhymes(){
@@ -83,8 +82,8 @@ export default class Word {
     }
 
     async getRandomWord(){
-        const url = `${baseURL}/words/?random=true`;
-        await this.fetchWordData(url);
+        const url = `${baseURL}?random=true`;
+        let result = await this.fetchWordData(url);
         let json = JSON.parse(result);
         return json.word;
     }
