@@ -1,0 +1,91 @@
+{
+  "sonnet": {
+    "title": "Title of the Shakespearean Sonnet",
+    "lines": [
+      {
+        "line": 1,
+        "syllableCount": 10,
+        "rhymeScheme": "A",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 2,
+        "syllableCount": 10,
+        "rhymeScheme": "A",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 3,
+        "syllableCount": 10,
+        "rhymeScheme": "B",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 4,
+        "syllableCount": 10,
+        "rhymeScheme": "B",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 5,
+        "syllableCount": 10,
+        "rhymeScheme": "C",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 6,
+        "syllableCount": 10,
+        "rhymeScheme": "C",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 7,
+        "syllableCount": 10,
+        "rhymeScheme": "D",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 8,
+        "syllableCount": 10,
+        "rhymeScheme": "D",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 9,
+        "syllableCount": 10,
+        "rhymeScheme": "E",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 10,
+        "syllableCount": 10,
+        "rhymeScheme": "E",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 11,
+        "syllableCount": 10,
+        "rhymeScheme": "F",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 12,
+        "syllableCount": 10,
+        "rhymeScheme": "F",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 13,
+        "syllableCount": 10,
+        "rhymeScheme": "G",
+        "partsOfSpeech": []
+      },
+      {
+        "line": 14,
+        "syllableCount": 10,
+        "rhymeScheme": "G",
+        "partsOfSpeech": []
+      }
+    ]
+  }
+}
