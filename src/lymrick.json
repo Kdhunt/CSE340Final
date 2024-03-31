@@ -1,0 +1,73 @@
+{
+  "limerick": {
+    "lines": [
+      {
+        "text": "There once was a man from Kent",
+        "syllableCount": 8,
+        "rhymeScheme": "A",
+        "partsOfSpeech": [
+          {"word": "There", "part": "adverb"},
+          {"word": "once", "part": "adverb"},
+          {"word": "was", "part": "verb"},
+          {"word": "a", "part": "article"},
+          {"word": "man", "part": "noun"},
+          {"word": "from", "part": "preposition"},
+          {"word": "Kent", "part": "noun"}
+        ]
+      },
+      {
+        "text": "Whose bicycle was horribly bent.",
+        "syllableCount": 8,
+        "rhymeScheme": "A",
+        "partsOfSpeech": [
+          {"word": "Whose", "part": "pronoun"},
+          {"word": "bicycle", "part": "noun"},
+          {"word": "was", "part": "verb"},
+          {"word": "horribly", "part": "adverb"},
+          {"word": "bent", "part": "adjective"}
+        ]
+      },
+      {
+        "text": "He said with a frown,",
+        "syllableCount": 5,
+        "rhymeScheme": "B",
+        "partsOfSpeech": [
+          {"word": "He", "part": "pronoun"},
+          {"word": "said", "part": "verb"},
+          {"word": "with", "part": "preposition"},
+          {"word": "a", "part": "article"},
+          {"word": "frown", "part": "noun"}
+        ]
+      },
+      {
+        "text": "I'll have to turn it upside down.",
+        "syllableCount": 7,
+        "rhymeScheme": "B",
+        "partsOfSpeech": [
+          {"word": "I'll", "part": "pronoun"},
+          {"word": "have", "part": "verb"},
+          {"word": "to", "part": "preposition"},
+          {"word": "turn", "part": "verb"},
+          {"word": "it", "part": "pronoun"},
+          {"word": "upside", "part": "adverb"},
+          {"word": "down", "part": "adverb"}
+        ]
+      },
+      {
+        "text": "To get to the town next to Kent.",
+        "syllableCount": 8,
+        "rhymeScheme": "A",
+        "partsOfSpeech": [
+          {"word": "To", "part": "preposition"},
+          {"word": "get", "part": "verb"},
+          {"word": "to", "part": "preposition"},
+          {"word": "the", "part": "article"},
+          {"word": "town", "part": "noun"},
+          {"word": "next", "part": "adjective"},
+          {"word": "to", "part": "preposition"},
+          {"word": "Kent", "part": "noun"}
+        ]
+      }
+    ]
+  }
+}
