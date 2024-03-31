@@ -1,0 +1,67 @@
+{
+  "ode": {
+    "title": "Title of the Ode",
+    "sections": [
+      {
+        "type": "strophe",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          }
+          // Additional lines as required
+        ]
+      },
+      {
+        "type": "antistrophe",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          }
+          // Additional lines as required
+        ]
+      },
+      {
+        "type": "epode",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "syllableCount": 0,
+            "rhymeScheme": "",
+            "partsOfSpeech": []
+          }
+          // Additional lines as required
+        ]
+      }
+    ]
+  }
+}
