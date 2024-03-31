@@ -1,0 +1,25 @@
+{
+  "haiku": {
+    "title": "Title of the Haiku",
+    "lines": [
+      {
+        "line": 1,
+        "text": "",
+        "syllableCount": 5,
+        "partsOfSpeech": []
+      },
+      {
+        "line": 2,
+        "text": "",
+        "syllableCount": 7,
+        "partsOfSpeech": []
+      },
+      {
+        "line": 3,
+        "text": "",
+        "syllableCount": 5,
+        "partsOfSpeech": []
+      }
+    ]
+  }
+}
