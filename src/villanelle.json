@@ -1,0 +1,182 @@
+{
+  "villanelle": {
+    "title": "Title of the Villanelle",
+    "stanzas": [
+      {
+        "type": "tercet",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+       {
+        "type": "tercet",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+       {
+        "type": "tercet",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+       {
+        "type": "tercet",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+       {
+        "type": "tercet",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+      {
+        "type": "quatrain",
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "rhymeScheme": "A",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 4,
+            "text": "",
+            "rhymeScheme": "A",
+            "refrain": true,
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      }
+    ]
+  }
+}
