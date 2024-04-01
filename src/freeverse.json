@@ -1,0 +1,33 @@
+{
+  "freeVerse": {
+    "title": "Title of the Free Verse Poem",
+    "lines": [
+      {
+        "line": 1,
+        "text": "",
+        "syllableCount": 0,
+        "partsOfSpeech": []
+      },
+      {
+        "line": 2,
+        "text": "",
+        "syllableCount": 0,
+        "partsOfSpeech": []
+      },
+      // Additional lines as needed
+    ],
+    "literaryDevices": [
+      {
+        "line": 1,
+        "device": "Alliteration",
+        "example": ""
+      },
+      {
+        "line": 2,
+        "device": "Metaphor",
+        "example": ""
+      }
+      // Additional literary devices as employed in the poem
+    ]
+  }
+}
