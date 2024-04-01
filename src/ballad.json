@@ -1,0 +1,45 @@
+{
+  "ballad": {
+    "title": "Title of the Ballad",
+    "stanzas": [
+      {
+        "stanza": 1,
+        "lines": [
+          {
+            "line": 1,
+            "text": "",
+            "meter": "4 stresses",
+            "rhymeScheme": "A",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 2,
+            "text": "",
+            "meter": "3 stresses",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 3,
+            "text": "",
+            "meter": "4 stresses",
+            "rhymeScheme": "A",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          },
+          {
+            "line": 4,
+            "text": "",
+            "meter": "3 stresses",
+            "rhymeScheme": "B",
+            "syllableCount": 0,
+            "partsOfSpeech": []
+          }
+        ]
+      },
+      // Additional stanzas would follow the same pattern
+    ]
+  }
+}
