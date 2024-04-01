@@ -1,0 +1,70 @@
+{
+  "literaryDevices": [
+    {
+      "name": "Metaphor",
+      "description": "A figure of speech that makes a comparison between two unrelated things by stating one thing is another.",
+      "example": "The classroom was a zoo."
+    },
+    {
+      "name": "Simile",
+      "description": "A figure of speech that compares two different things using the words 'like' or 'as'.",
+      "example": "Her cheeks are red like a rose."
+    },
+    {
+      "name": "Alliteration",
+      "description": "The repetition of the same consonant sounds at the beginning of words that are in close proximity.",
+      "example": "Peter Piper picked a peck of pickled peppers."
+    },
+    {
+      "name": "Personification",
+      "description": "A form of figurative language in which non-human objects are given human characteristics.",
+      "example": "The wind whispered through the trees."
+    },
+    {
+      "name": "Onomatopoeia",
+      "description": "A word that imitates the natural sounds of a thing. It creates a sound effect that mimics the thing described.",
+      "example": "The bees buzzed."
+    },
+    {
+      "name": "Hyperbole",
+      "description": "An exaggerated statement or claim not meant to be taken literally.",
+      "example": "I'm so hungry I could eat a horse."
+    },
+    {
+      "name": "Irony",
+      "description": "A contrast or incongruity between expectations for a situation and what is reality.",
+      "example": "A fire station burns down."
+    },
+    {
+      "name": "Oxymoron",
+      "description": "A figure of speech in which two opposite ideas are joined to create an effect.",
+      "example": "Deafening silence."
+    },
+    {
+      "name": "Anaphora",
+      "description": "The deliberate repetition of the first part of the sentence in order to achieve an artistic effect.",
+      "example": "Every day, every night, in every way, I am getting better and better."
+    },
+    {
+      "name": "Euphemism",
+      "description": "A polite, indirect expression that replaces words and phrases considered harsh and impolite, or which suggest something unpleasant.",
+      "example": "Passed away instead of died."
+    },
+    {
+      "name": "Assonance",
+      "description": "The repetition of vowel sounds in nearby words. It is used to reinforce the meanings of words or to set the mood.",
+      "example": "Men sell the wedding bells."
+    },
+    {
+      "name": "Consonance",
+      "description": "The repetitive sounds produced by consonants within a sentence or phrase.",
+      "example": "The ship has sailed to the far off shores."
+    },
+    {
+      "name": "Symbolism",
+      "description": "The use of symbols to signify ideas and qualities, by giving them symbolic meanings that are different from their literal sense.",
+      "example": "A chain can symbolize the coming together of two things."
+    }
+    // Additional literary devices can be added here
+  ]
+}
