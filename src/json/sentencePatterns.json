@@ -1,0 +1,158 @@
+[
+    {
+        "pattern": "{noun} {verb} {adjective} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "verb", "adjective", "noun"],
+        "subjectSyllables": "2-3",
+        "totalSyllables": "7-10",
+        "lowSyllables": 7,
+        "highSyllables": 10
+    },
+    {
+        "pattern": "{adjective} {noun} {verb} {adverb}",
+        "subject": "noun",
+        "partsOfSpeech": ["adjective", "noun", "verb", "adverb"],
+        "subjectsyllables": "1-2",
+        "lowSyllables": 7,
+        "highSyllables": 10
+    },
+    {
+        "pattern": "{noun} {verb} {preposition} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "verb", "preposition", "noun"],
+        "subjectsyllables": "2",
+        "lowSyllables": 6,
+        "highSyllables": 9
+    },
+    {
+        "pattern": "{interjection}! {noun} {verb}.",
+        "subject": "noun",
+        "partsOfSpeech": ["interjection", "noun", "verb"],
+        "subjectsyllables": "1",
+        "lowSyllables": 3,
+        "highSyllables": 5
+    },
+    {
+        "pattern": "{verb} {determiner} {adjective} {noun}",
+        "subject": "implicit",
+        "partsOfSpeech": ["verb", "determiner", "adjective", "noun"],
+        "subjectsyllables": "n/a",
+        "lowSyllables": 5,
+        "highSyllables": 8
+    },
+    {
+        "pattern": "{determiner} {noun} {verb} {determiner} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["determiner", "noun", "verb", "determiner", "noun"],
+        "subjectsyllables": "2-3",
+        "totalSyllables": "8-12",
+        "lowSyllables": 8,
+        "highSyllables": 12
+    },
+    {
+        "pattern": "{adverb} {verb} {preposition} {determiner} {adjective} {noun}",
+        "subject": "implicit",
+        "partsOfSpeech": ["adverb", "verb", "preposition", "determiner", "adjective", "noun"],
+        "subjectsyllables": "n/a",
+        "lowSyllables": 8,
+        "highSyllables": 12
+    },
+    {
+        "pattern": "{noun} {adverb} {verb} {adjective} {noun} {conjunction} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "adverb", "verb", "adjective", "noun", "conjunction", "noun"],
+        "subjectsyllables": "3",
+        "lowSyllables": 10,
+        "highSyllables": 15
+    },
+    {
+        "pattern": "{pronoun} {verb} {adverb} {conjunction} {verb} {adverb}",
+        "subject": "pronoun",
+        "partsOfSpeech": ["pronoun", "verb", "adverb", "conjunction", "verb", "adverb"],
+        "subjectsyllables": "1",
+        "lowSyllables": 6,
+        "highSyllables": 10
+    },
+    {
+        "pattern": "{determiner} {adjective} {noun} {verb} {preposition} {determiner} {adjective} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["determiner", "adjective", "noun", "verb", "preposition", "determiner", "adjective", "noun"],
+        "subjectsyllables": "2",
+        "lowSyllables": 10,
+        "highSyllables": 14
+    },
+    {
+        "pattern": "{noun} {verb} like {noun} (simile)",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "verb", "noun", "similie"],
+        "subjectsyllables": "2",
+        "lowSyllables": 5,
+        "highSyllables": 8
+    },
+    {
+        "pattern": "{noun} is {noun} (metaphor)",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "noun", "metaphor"],
+        "subjectsyllables": "2",
+        "lowSyllables": 4,
+        "highSyllables": 6
+    },
+    {
+        "pattern": "the {adjective} {noun} {verb} as if it {verb} (personification)",
+        "subject": "noun",
+        "partsOfSpeech": ["adjective", "noun", "verb", "verb", "personification"],
+        "subjectsyllables": "2-3",
+        "lowSyllables": 10,
+        "highSyllables": 14
+    },
+    {
+        "pattern": "{adjective} {noun} {adverb} {verb} {adjective} {noun} with alliteration",
+        "subject": "noun",
+        "partsOfSpeech": ["adjective","noun","adverb","verb","adjective","noun"],
+        "subjectsyllables": "2",
+        "lowSyllables": 10,
+        "highSyllables": 15
+    },
+    {
+        "pattern": "{noun} {verb}",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "verb"],
+        "subjectsyllables": "1-2",
+        "lowSyllables": 2,
+        "highSyllables": 4
+    },
+    {
+        "pattern": "{verb} {adverb}",
+        "subject": "implicit",
+        "partsOfSpeech": ["verb", "adverb"],
+        "subjectsyllables": "n/a",
+        "lowSyllables": 3,
+        "highSyllables": 5
+    },
+    {
+        "pattern": "{adjective} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["adjective", "noun"],
+        "subjectsyllables": "1-2",
+        "lowSyllables": 2,
+        "highSyllables": 7
+    },
+    {
+        "pattern": "{noun} {preposition} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["noun", "preposition", "noun"],
+        "subjectsyllables": "1",
+        "lowSyllables": 3,
+        "highSyllables": 10
+    },
+    {
+        "pattern": "{adverb} {verb} {noun}",
+        "subject": "noun",
+        "partsOfSpeech": ["adverb", "verb", "noun"],
+        "subjectsyllables": "1",
+        "lowSyllables": 4,
+        "highSyllables": 8
+    }
+]
+      
+  

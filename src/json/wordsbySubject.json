@@ -1,0 +1,985 @@
+{
+    "Appearance": {
+        "adjective": [
+            "attractive",
+            "bald",
+            "beautiful",
+            "chubby",
+            "clean",
+            "dazzling",
+            "drab",
+            "elegant",
+            "fancy",
+            "fit",
+            "flabby",
+            "glamorous",
+            "gorgeous",
+            "handsome",
+            "long",
+            "magnificent",
+            "muscular",
+            "plain",
+            "plump",
+            "quaint",
+            "scruffy",
+            "shapely",
+            "short",
+            "skinny",
+            "stocky",
+            "ugly",
+            "unkempt",
+            "unsightly"
+        ],
+        "noun": [
+            "beauty",
+            "charm",
+            "elegance",
+            "grace",
+            "style",
+            "fashion",
+            "figure",
+            "physique",
+            "complexion",
+            "stature"
+        ],
+        "verb": [
+            "adorn",
+            "beautify",
+            "enhance",
+            "groom",
+            "polish",
+            "shape",
+            "style",
+            "transform",
+            "maintain",
+            "dress"
+        ],
+        "adverb": [
+            "beautifully",
+            "elegantly",
+            "gracefully",
+            "neatly",
+            "stylishly",
+            "charmingly",
+            "attractively",
+            "plainly",
+            "shabbily",
+            "smartly"
+        ],
+        "preposition": [
+            "above",
+            "across",
+            "against",
+            "behind",
+            "beside",
+            "between",
+            "beyond",
+            "in",
+            "near",
+            "under"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Emotions": {
+        "adjective": [
+            "joyful",
+            "sorrowful",
+            "angry",
+            "peaceful",
+            "anxious"
+        ],
+        "noun": [
+            "joy",
+            "sorrow",
+            "anger",
+            "peace",
+            "anxiety"
+        ],
+        "verbs": [
+            "rejoice",
+            "mourn",
+            "rage",
+            "calm",
+            "worry"
+        ],
+        "adverb": [
+            "joyfully",
+            "sorrowfully",
+            "angrily",
+            "peacefully",
+            "anxiously"
+        ],
+        "prepositions": [
+            "with",
+            "without",
+            "under",
+            "over",
+            "against"
+        ],
+        "articles": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Cutting": {
+        "noun": [
+            "forest",
+            "river",
+            "cliff",
+            "valley",
+            "peak",
+            "knife",
+            "sword",
+            "blade",
+            "scissors",
+            "axe",
+            "razor",
+            "machete",
+            "lance",
+            "dagger",
+            "saw",
+            "shears",
+            "sickle",
+            "scalpel",
+            "guillotine",
+            "chisel"
+        ],
+        "verbs": [
+            "erode",
+            "wither",
+            "cascade",
+            "carve",
+            "slice",
+            "cut",
+            "chop",
+            "trim",
+            "shave",
+            "hack",
+            "slash",
+            "cleave",
+            "sever",
+            "prune",
+            "saw",
+            "gash",
+            "slit",
+            "snip",
+            "lop",
+            "mow",
+            "pare",
+            "shear",
+            "skive",
+            "score",
+            "rend"
+        ],
+        "adjective": [
+            "jagged",
+            "barren",
+            "rugged",
+            "steep",
+            "pristine",
+            "sharp",
+            "serrated",
+            "keen",
+            "slashed",
+            "chopped",
+            "sliced",
+            "shaved",
+            "cleaved",
+            "severed",
+            "trimmed",
+            "pruned",
+            "mowed",
+            "pared",
+            "shorn",
+            "scored"
+        ],
+        "adverb": [
+            "sharply",
+            "abruptly",
+            "steadily",
+            "precisely",
+            "cleanly",
+            "roughly",
+            "easily",
+            "finely",
+            "closely",
+            "deeply",
+            "straight",
+            "diagonally",
+            "horizontally"
+        ]
+    },
+    "Weather": {
+        "adjective": [
+            "sunny",
+            "stormy",
+            "chilly",
+            "foggy",
+            "breezy"
+        ],
+        "noun": [
+            "sun",
+            "storm",
+            "chill",
+            "fog",
+            "breeze"
+        ],
+        "verb": [
+            "shine",
+            "thunder",
+            "shiver",
+            "loom",
+            "blow"
+        ],
+        "adverb": [
+            "brightly",
+            "violently",
+            "coldly",
+            "thickly",
+            "lightly"
+        ],
+        "preposition": [
+            "under",
+            "during",
+            "before",
+            "after",
+            "against"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Size": {
+        "adjective": [
+            "tiny",
+            "huge",
+            "massive",
+            "petite",
+            "enormous"
+        ],
+        "noun": [
+            "minuteness",
+            "hugeness",
+            "mass",
+            "petiteness",
+            "enormity"
+        ],
+        "verb": [
+            "shrink",
+            "expand",
+            "grow",
+            "reduce",
+            "enlarge"
+        ],
+        "adverb": [
+            "minutely",
+            "hugely",
+            "massively",
+            "petitely",
+            "enormously"
+        ],
+        "preposition": [
+            "beyond",
+            "within",
+            "outside",
+            "inside",
+            "around"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Color": {
+        "adjective": [
+            "vibrant",
+            "dull",
+            "pastel",
+            "neon",
+            "muted"
+        ],
+        "noun": [
+            "vibrancy",
+            "dullness",
+            "shade",
+            "glow",
+            "tone"
+        ],
+        "verb": [
+            "brighten",
+            "fade",
+            "shade",
+            "glow",
+            "darken"
+        ],
+        "adverb": [
+            "vibrantly",
+            "dully",
+            "softly",
+            "brilliantly",
+            "subtly"
+        ],
+        "preposition": [
+            "in",
+            "with",
+            "without",
+            "under",
+            "over"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Texture": {
+        "adjective": [
+            "smooth",
+            "rough",
+            "slippery",
+            "gritty",
+            "soft"
+        ],
+        "noun": [
+            "smoothness",
+            "roughness",
+            "slipperiness",
+            "grit",
+            "softness"
+        ],
+        "verb": [
+            "smooth",
+            "roughen",
+            "slip",
+            "grind",
+            "soften"
+        ],
+        "adverb": [
+            "smoothly",
+            "roughly",
+            "slipperily",
+            "grittily",
+            "softly"
+        ],
+        "preposition": [
+            "against",
+            "beside",
+            "between",
+            "on",
+            "under"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Speed": {
+        "adjective": [
+            "swift",
+            "slow",
+            "rapid",
+            "lethargic",
+            "quick"
+        ],
+        "noun": [
+            "swiftness",
+            "slowness",
+            "rapidity",
+            "lethargy",
+            "quickness"
+        ],
+        "verb": [
+            "hasten",
+            "delay",
+            "accelerate",
+            "crawl",
+            "dash"
+        ],
+        "adverb": [
+            "swiftly",
+            "slowly",
+            "rapidly",
+            "lethargically",
+            "quickly"
+        ],
+        "preposition": [
+            "at",
+            "to",
+            "from",
+            "over",
+            "under"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Quality": {
+        "adjective": [
+            "superior",
+            "inferior",
+            "exquisite",
+            "poor",
+            "mediocre"
+        ],
+        "noun": [
+            "superiority",
+            "inferiority",
+            "exquisiteness",
+            "poorness",
+            "mediocrity"
+        ],
+        "verb": [
+            "excel",
+            "fail",
+            "refine",
+            "deteriorate",
+            "average"
+        ],
+        "adverb": [
+            "superbly",
+            "poorly",
+            "finely",
+            "badly",
+            "moderately"
+        ],
+        "preposition": [
+            "above",
+            "below",
+            "beyond",
+            "within",
+            "without"
+        ],
+        "article": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Sound": {
+        "adjective": [
+            "melodic",
+            "discordant",
+            "faint",
+            "deafening",
+            "soft"
+        ],
+        "noun": [
+            "melody",
+            "discord",
+            "whisper",
+            "thunder",
+            "murmur"
+        ],
+        "verbs": [
+            "echo",
+            "resonate",
+            "whisper",
+            "thunder",
+            "hum"
+        ],
+        "adverb": [
+            "melodiously",
+            "discordantly",
+            "faintly",
+            "loudly",
+            "softly"
+        ],
+        "prepositions": [
+            "in",
+            "with",
+            "without",
+            "beneath",
+            "above"
+        ],
+        "articles": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Taste": {
+        "adjective": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "spicy"
+        ],
+        "noun": [
+            "sweetness",
+            "sourness",
+            "bitterness",
+            "savor",
+            "spice"
+        ],
+        "verbs": [
+            "sweeten",
+            "sour",
+            "bitter",
+            "flavor",
+            "spice"
+        ],
+        "adverb": [
+            "sweetly",
+            "sourly",
+            "bitterly",
+            "savoryly",
+            "spicily"
+        ],
+        "prepositions": [
+            "like",
+            "unlike",
+            "before",
+            "after",
+            "against"
+        ],
+        "articles": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Smell": {
+        "adjective": [
+            "fragrant",
+            "pungent",
+            "fresh",
+            "stale",
+            "aromatic"
+        ],
+        "noun": [
+            "fragrance",
+            "pungency",
+            "freshness",
+            "staleness",
+            "aroma"
+        ],
+        "verbs": [
+            "perfume",
+            "reek",
+            "refresh",
+            "sour",
+            "scent"
+        ],
+        "adverb": [
+            "fragrantly",
+            "pungently",
+            "freshly",
+            "stalely",
+            "aromatically"
+        ],
+        "prepositions": [
+            "of",
+            "with",
+            "without",
+            "beside",
+            "beyond"
+        ],
+        "articles": [
+            "the",
+            "a",
+            "an"
+        ]
+    },
+    "Time": {
+        "noun": [
+            "moment",
+            "era",
+            "decade",
+            "millennium",
+            "epoch"
+        ],
+        "verbs": [
+            "delay",
+            "hasten",
+            "last",
+            "expire",
+            "anticipate"
+        ],
+        "adjective": [
+            "brief",
+            "eternal",
+            "fleeting",
+            "late",
+            "timely"
+        ],
+        "adverb": [
+            "momentarily",
+            "forever",
+            "temporarily",
+            "recently",
+            "previously"
+        ]
+    },
+    "Space": {
+        "noun": [
+            "void",
+            "galaxy",
+            "orbit",
+            "terrain",
+            "atmosphere"
+        ],
+        "verbs": [
+            "expand",
+            "encompass",
+            "float",
+            "orbit",
+            "navigate"
+        ],
+        "adjective": [
+            "vast",
+            "narrow",
+            "open",
+            "cramped",
+            "infinite"
+        ],
+        "adverb": [
+            "outwardly",
+            "internally",
+            "above",
+            "beneath",
+            "around"
+        ]
+    },
+    "Motion": {
+        "noun": [
+            "velocity",
+            "trajectory",
+            "thrust",
+            "spin",
+            "momentum"
+        ],
+        "verbs": [
+            "accelerate",
+            "glide",
+            "pivot",
+            "recoil",
+            "propel"
+        ],
+        "adjective": [
+            "swift",
+            "gradual",
+            "erratic",
+            "steady",
+            "brisk"
+        ],
+        "adverb": [
+            "abruptly",
+            "smoothly",
+            "steadily",
+            "suddenly",
+            "gradually"
+        ]
+    },
+    "Technology": {
+        "noun": [
+            "innovation",
+            "gadget",
+            "algorithm",
+            "cyberspace",
+            "network"
+        ],
+        "verbs": [
+            "compute",
+            "navigate",
+            "program",
+            "hack",
+            "innovate"
+        ],
+        "adjective": [
+            "advanced",
+            "obsolete",
+            "innovative",
+            "virtual",
+            "interactive"
+        ],
+        "adverb": [
+            "digitally",
+            "efficiently",
+            "automatically",
+            "remotely",
+            "virtually"
+        ]
+    },
+    "Art and Literature": {
+        "noun": [
+            "canvas",
+            "genre",
+            "narrative",
+            "palette",
+            "sonnet"
+        ],
+        "verbs": [
+            "depict",
+            "narrate",
+            "craft",
+            "illustrate",
+            "compose"
+        ],
+        "adjective": [
+            "abstract",
+            "classic",
+            "poetic",
+            "vivid",
+            "dramatic"
+        ],
+        "adverb": [
+            "creatively",
+            "expressively",
+            "symbolically",
+            "elegantly",
+            "boldly"
+        ]
+    },
+    "Health and Medicine": {
+        "noun": [
+            "vaccine",
+            "therapy",
+            "nutrient",
+            "pathogen",
+            "remedy"
+        ],
+        "verbs": [
+            "heal",
+            "diagnose",
+            "treat",
+            "immunize",
+            "recover"
+        ],
+        "adjective": [
+            "healthy",
+            "therapeutic",
+            "medicinal",
+            "contagious",
+            "preventive"
+        ],
+        "adverb": [
+            "medically",
+            "therapeutically",
+            "naturally",
+            "effectively",
+            "preventively"
+        ]
+    },
+    "Food and Drink": {
+        "noun": [
+            "cuisine",
+            "beverage",
+            "delicacy",
+            "ingredient",
+            "portion"
+        ],
+        "verbs": [
+            "savor",
+            "brew",
+            "marinate",
+            "ferment",
+            "garnish"
+        ],
+        "adjective": [
+            "savory",
+            "bitter",
+            "delectable",
+            "ripe",
+            "tangy"
+        ],
+        "adverb": [
+            "deliciously",
+            "sparingly",
+            "generously",
+            "traditionally",
+            "freshly"
+        ]
+    },
+    "Fashion and Appearance": {
+        "noun": [
+            "ensemble",
+            "fabric",
+            "texture",
+            "silhouette",
+            "trend"
+        ],
+        "verbs": [
+            "adorn",
+            "tailor",
+            "drape",
+            "embellish",
+            "fashion"
+        ],
+        "adjective": [
+            "chic",
+            "tailored",
+            "flowing",
+            "trendy",
+            "vintage"
+        ],
+        "adverb": [
+            "fashionably",
+            "elegantly",
+            "casually",
+            "formally",
+            "boldly"
+        ]
+    },
+    "Education and Learning": {
+        "noun": [
+            "curriculum",
+            "lecture",
+            "scholar",
+            "theory",
+            "insight"
+        ],
+        "verbs": [
+            "educate",
+            "ponder",
+            "understand",
+            "theorize",
+            "enlighten"
+        ],
+        "adjective": [
+            "educational",
+            "insightful",
+            "academic",
+            "enlightening",
+            "scholarly"
+        ],
+        "adverb": [
+            "intellectually",
+            "critically",
+            "systematically",
+            "theoretically",
+            "conceptually"
+        ]
+    },
+    "Society and Culture": {
+        "noun": [
+            "norm",
+            "tradition",
+            "society",
+            "ethos",
+            "custom"
+        ],
+        "verbs": [
+            "conform",
+            "celebrate",
+            "practice",
+            "question",
+            "uphold"
+        ],
+        "adjective": [
+            "cultural",
+            "social",
+            "traditional",
+            "progressive",
+            "diverse"
+        ],
+        "adverb": [
+            "culturally",
+            "socially",
+            "traditionally",
+            "collectively",
+            "universally"
+        ]
+    },
+    "Economics and Business": {
+        "noun": [
+            "market",
+            "enterprise",
+            "asset",
+            "investment",
+            "strategy"
+        ],
+        "verbs": [
+            "invest",
+            "profit",
+            "negotiate",
+            "innovate",
+            "monetize"
+        ],
+        "adjective": [
+            "financial",
+            "strategic",
+            "entrepreneurial",
+            "lucrative",
+            "sustainable"
+        ],
+        "adverb": [
+            "economically",
+            "strategically",
+            "profitably",
+            "innovatively",
+            "sustainably"
+        ]
+    },
+    "Philosophy and Religion": {
+        "noun": [
+            "ethic",
+            "doctrine",
+            "paradigm",
+            "theology",
+            "virtue"
+        ],
+        "verbs": [
+            "ponder",
+            "believe",
+            "practice",
+            "question",
+            "preach"
+        ],
+        "adjective": [
+            "philosophical",
+            "spiritual",
+            "moral",
+            "dogmatic",
+            "theological"
+        ],
+        "adverb": [
+            "morally",
+            "spiritually",
+            "philosophically",
+            "dogmatically",
+            "ethically"
+        ]
+    },
+    "Politics and Governance": {
+        "noun": [
+            "policy",
+            "democracy",
+            "treaty",
+            "legislation",
+            "governance"
+        ],
+        "verbs": [
+            "legislate",
+            "govern",
+            "debate",
+            "elect",
+            "enforce"
+        ],
+        "adjective": [
+            "political",
+            "democratic",
+            "legislative",
+            "authoritarian",
+            "civic"
+        ],
+        "adverb": [
+            "politically",
+            "democratically",
+            "legislatively",
+            "authoritatively",
+            "publicly"
+        ]
+    }
+}

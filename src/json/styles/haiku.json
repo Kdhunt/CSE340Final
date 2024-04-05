@@ -1,0 +1,22 @@
+{
+  "title": "",
+  "lines": [
+    {
+      "syllableCount": 5,
+      "override": {"subject": "nature"},
+      "rhyme": 0
+    },
+    {
+      "syllableCount": 7,
+      "override": null,
+      "rhyme": 0
+    },
+    {
+      "syllableCount": 5,
+      "override": {"verb": "cutting"},
+      "rhyme": 0
+    }
+  ]
+}
+
+
