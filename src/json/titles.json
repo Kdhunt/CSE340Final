@@ -1,0 +1,82 @@
+[
+    {
+      "pattern": "{Noun} {Verb}",
+      "partsOfSpeech": ["Noun", "Verb"],
+      "subject": "Noun",
+      "subjectsyllables": "1",
+      "lowSyllables": 3,
+      "highSyllables": 5
+    },
+    {
+      "pattern": "{Adjective} {Noun}",
+      "partsOfSpeech": ["Adjective", "Noun"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 4,
+      "highSyllables": 7
+    },
+    {
+      "pattern": "{Verb} {PrepositionalPhrase}",
+      "partsOfSpeech": ["Verb", "Prepositional Phrase"],
+      "subject": "Verb",
+      "subjectsyllables": "1",
+      "lowSyllables": 3,
+      "highSyllables": 6
+    },
+    {
+      "pattern": "{Gerund} {Noun}",
+      "partsOfSpeech": ["Gerund", "Noun"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 4,
+      "highSyllables": 7
+    },
+    {
+      "pattern": "{Noun} of {Noun}",
+      "partsOfSpeech": ["Noun", "of", "Noun"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 5,
+      "highSyllables": 8
+    },
+    {
+      "pattern": "{Adjective} {Noun} {Verb}",
+      "partsOfSpeech": ["Adjective", "Noun", "Verb"],
+      "subject": "Noun",
+      "subjectsyllables": "3",
+      "lowSyllables": 6,
+      "highSyllables": 9
+    },
+    {
+      "pattern": "{Noun} {Adverb}",
+      "partsOfSpeech": ["Noun", "Adverb"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 4,
+      "highSyllables": 7
+    },
+    {
+      "pattern": "{ImperativeVerb} {Noun}",
+      "partsOfSpeech": ["Imperative Verb", "Noun"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 4,
+      "highSyllables": 7
+    },
+    {
+      "pattern": "{Noun} {Conjunction} {Noun}",
+      "partsOfSpeech": ["Noun", "Conjunction", "Noun"],
+      "subject": "Noun",
+      "subjectsyllables": "2",
+      "lowSyllables": 5,
+      "highSyllables": 8
+    },
+    {
+      "pattern": "{Adjective} {Noun} {PrepositionalPhrase}",
+      "partsOfSpeech": ["Adjective", "Noun", "Prepositional Phrase"],
+      "subject": "Noun",
+      "subjectsyllables": "3",
+      "lowSyllables": 6,
+      "highSyllables": 9
+    }
+  ]
